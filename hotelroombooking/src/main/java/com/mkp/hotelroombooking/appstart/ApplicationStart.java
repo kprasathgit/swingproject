@@ -43,7 +43,7 @@ public class ApplicationStart extends JFrame {
 				//UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
 				
 			} catch (Exception e) {
-				e.printStackTrace();
+				//e.printStackTrace();
 			}
 
 			ApplicationStart applicationStart = new ApplicationStart();
